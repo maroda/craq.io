@@ -7,3 +7,5 @@ draft = false
 ## Intro
 
 Ahoy!
+
+Now with Netlify for more vroom.
