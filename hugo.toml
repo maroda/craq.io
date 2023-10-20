@@ -1,4 +1,4 @@
-baseurl                 = "https://www.craq.io/"
+baseurl                 = "https://craq.io/"
 title                   = "Craque I/O"
 enableRobotsTXT         = true
 enableEmoji             = true
