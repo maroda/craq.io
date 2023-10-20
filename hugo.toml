@@ -4,10 +4,10 @@ enableRobotsTXT         = true
 enableEmoji             = true
 theme                   = "jane"
 
-paginate                = 1     # Number of articles displayed on the homepage
+paginate                = 2     # Number of articles displayed on the homepage
 rssLimit                = 20    # Limit Entry Count to Rss file
-disqusShortname         = ""    # disqus_shortname
-googleAnalytics         = ""    # UA-XXXXXXXX-X
+disqusShortname         = ""
+googleAnalytics         = "G-R03B0ESCH4"
 copyright               = ""    # default: author.name
 defaultContentLanguage  = "en"
 
