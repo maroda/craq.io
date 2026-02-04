@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Firstbang on Craque I/O</title>
-    <link>https://craq.io/</link>
-    <description>Recent content in Firstbang on Craque I/O</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>input/output on craque i/o</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in input/output on craque i/o</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 14:24:58 -0700</lastBuildDate>
-    
-        <atom:link href="https://craq.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Feb 2026 16:07:23 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cane Creek Rivergraph</title>
+      <link>http://localhost:1313/rivergraph/canecreek/</link>
+      <pubDate>Tue, 03 Feb 2026 16:07:23 -0800</pubDate>
+      <guid>http://localhost:1313/rivergraph/canecreek/</guid>
+      <description>&lt;strong&gt;Rivergraph&lt;/strong&gt; is a concept continued from a piece I wrote in the late 1990&amp;rsquo;s called &lt;em&gt;Riverbroadening&lt;/em&gt;. That piece uses the French Broad River as the basis for its meandering line. The instrumentation is relatively limited, scripted to be played by specific players. Its output tends to produce a gathering of unrelated-but-layered noise, taking on a character that is Cage-like and playfully dissonant at all times. Stylistically narrow, minimally abstract, mostly on purpose.</description>
+    </item>
+    <item>
+      <title>Train Drop</title>
+      <link>http://localhost:1313/meathacker/ch1/</link>
+      <pubDate>Tue, 03 Feb 2026 15:22:43 -0800</pubDate>
+      <guid>http://localhost:1313/meathacker/ch1/</guid>
+      <description>&lt;p&gt;Seth hums a meaningless song to himself watching the traffic of Union Station. As a train moves across the platform, he thinks in reflection, caught between histories, a glimpse of all that happened there. Ghosts of every time they came this way. Reality wave interference on the platform with each passing space between cars.&lt;/p&gt;&#xA;&lt;p&gt;The train gravitates to a stop. With a gasp, dozens of commuters pour from the urgently opened doors. They file around him in waves of rollerboards and briefcases. Lots of dark clothing. Not very many smiles. Seth can&amp;rsquo;t think straight in the sea of people, is his meetup supposed to be here? The Plaza? He looks out, sees no clues. This train turns around to originate here, so he is safe to find a secluded seat on a business car towards the front.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>http://localhost:1313/policy/</link>
+      <pubDate>Sat, 24 May 2025 10:23:36 +0200</pubDate>
+      <guid>http://localhost:1313/policy/</guid>
+      <description>&lt;h2 id=&#34;demo-privacy-policy&#34;&gt;Demo Privacy Policy&lt;/h2&gt;&#xA;&lt;p&gt;This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use the service and tells you about your privacy rights and how the law protects You.&lt;/p&gt;&#xA;&lt;p&gt;We use your personal data to provide and improve the service. By using the service, you agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the &#xA;&#xA;&#xA;&lt;a&#xA;  class=&#34;link-icon&#34;&#xA;  href=&#34;https://www.termsfeed.com/privacy-policy-generator/&#34;&#xA;    target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xA;  &gt;Privacy Policy Generator&lt;/a&#xA;&gt;&#xA;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
