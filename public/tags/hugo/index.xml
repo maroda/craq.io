@@ -1,37 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Craque I/O</title>
-    <link>https://craq.io/tags/hugo/</link>
-    <description>Recent content in hugo on Craque I/O</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Hugo on Alpha Theme</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Alpha Theme</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://craq.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 15:11:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Contribute</title>
-      <link>https://craq.io/post/docs/how-to-contribute/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://craq.io/post/docs/how-to-contribute/</guid>
-      <description>Contributing to Jane There are many ways to contribute to the Jane theme: submitting pull requests, reporting issues, providing new translations, and creating suggestions.
-Build and Run If you want to understand how Jane works, you&amp;rsquo;ll want to get the source, build it, and run locally.
-Getting the sources git clone https://github.com/xianmin/hugo-theme-jane.git Prerequisites You need install the Hugo_extended version to use Hugo Pipes.
-We recommend that you use VSCode. And if you edit .</description>
+      <title>Why Hugo</title>
+      <link>http://localhost:1313/blog/why-hugo/</link>
+      <pubDate>Tue, 20 May 2025 22:11:52 +0200</pubDate>
+      <guid>http://localhost:1313/blog/why-hugo/</guid>
+      <description>&lt;section&#xA;      class=&#34;sc-status-card mx-auto my-8 flex w-full max-w-prose flex-col items-center px-4&#34;&#xA;      role=&#34;note&#34;&#xA;      aria-labelledby=&#34;status-heading-why-hugo-1770164148897720000&#34;&#xA;    &gt;&#xA;      &lt;div class=&#34;dark:bg-sur-var-d border-out-var dark:border-out-var-d w-full rounded-md border-2 shadow-md&#34;&gt;&#xA;        &lt;header class=&#34;flex w-full items-center gap-2 px-4 pt-4&#34;&gt;&#xA;          &lt;svg&#xA;            class=&#34;fill-on-sur-var dark:fill-on-sur-var-d size-7&#34;&#xA;            xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;            height=&#34;24px&#34;&#xA;            width=&#34;24px&#34;&#xA;            viewBox=&#34;0 -960 960 960&#34;&#xA;            aria-hidden=&#34;true&#34;&#xA;          &gt;&#xA;            &lt;path&#xA;              d=&#34;M480-280q17 0 28.5-11.5T520-320v-160q0-17-11.5-28.5T480-520q-17 0-28.5 11.5T440-480v160q0 17 11.5 28.5T480-280Zm0-320q17 0 28.5-11.5T520-640q0-17-11.5-28.5T480-680q-17 0-28.5 11.5T440-640q0 17 11.5 28.5T480-600Zm0 520q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z&#34;&#xA;            /&gt;&#xA;          &lt;/svg&gt;&#xA;            &lt;h2 id=&#34;status-heading-why-hugo-1770164148897720000&#34; class=&#34;text-on-sur-var dark:text-on-sur-var-d&#34;&gt;Disclaimer&lt;/h2&gt;&#xA;        &lt;/header&gt;&#xA;        &lt;div class=&#34;w-full px-6 py-4 text-base&#34;&gt;&#xA;          This post series reflects my &lt;strong&gt;personal experience&lt;/strong&gt;. Your mileage may vary!&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/section&gt;&#xA;&#xA;  &lt;div class=&#34;mt-8 mb-32 flex w-full max-w-7xl flex-col items-center px-4&#34;&gt;&#xA;      &lt;h2&#xA;        class=&#34;font-200 text-on-sur-var dark:text-on-sur-var-d mb-16 w-full text-center text-4xl leading-normal wrap-break-word hyphens-manual&#34;&#xA;      &gt;It&amp;#39;s too late&lt;/h2&gt;&#xA;    &lt;div class=&#34;font-300 max-w-story text-center text-xl leading-relaxed&#34;&gt;&#xA;      I really think it&amp;rsquo;s too late to ask &lt;em&gt;“Why Hugo?”&lt;/em&gt;. You’re probably already using Hugo, or about to do so. And since &lt;strong&gt;Alpha is built for Hugo&lt;/strong&gt;, it’s not like you’re comparing options.&lt;br&gt;&#xA;Still, here&amp;rsquo;s a wordy &lt;em&gt;why I chose Hugo for Alpha&lt;/em&gt; instead of another Jamstack tool or something more dynamic and &lt;em&gt;“modern”&lt;/em&gt;.&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;h2 id=&#34;a-little-insight&#34;&gt;A Little Insight&lt;/h2&gt;&#xA;&lt;p&gt;I love to write. You could say it&amp;rsquo;s more than a need and less than a hobby.&lt;br&gt;&#xA;And because all words deserve to be read, I started publishing with tools that promised &lt;em&gt;everything&lt;/em&gt; (real-time previews, dozens of plugins, infinite configuration options).&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://craq.io/post/other/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://craq.io/post/other/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
-Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+      <title>How-to Alpha</title>
+      <link>http://localhost:1313/blog/how-to-alpha/</link>
+      <pubDate>Thu, 29 May 2025 13:25:21 +0200</pubDate>
+      <guid>http://localhost:1313/blog/how-to-alpha/</guid>
+      <description>&lt;p&gt;By now (at the final part of this little trilogy) I hope you have a clear sense of what my goals with &lt;strong&gt;Alpha&lt;/strong&gt; are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A clean, inclusive UI/UX focused on text.&lt;/li&gt;&#xA;&lt;li&gt;To be novice-friendly.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The second goal, let me tell you, is easier said than done. To achieve it, I needed to write simple, instructive, and non-technical documentation. But given the nature of the project, it’s also essential to cover technical topics, without making things tedious for those with some or even advanced experience.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
