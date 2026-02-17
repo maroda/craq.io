@@ -8,6 +8,30 @@
     <loc>http://localhost:1313/meathacker/ch1/</loc>
     <lastmod>2026-02-03T15:22:43-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/meathacker/ch2/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/adventure/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/apocalyptic/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/meat-hacker/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/psychedelic/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scifi/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-16T15:00:00-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/composition/</loc>
     <lastmod>2026-02-03T16:07:23-08:00</lastmod>
   </url><url>
@@ -20,29 +44,8 @@
     <loc>http://localhost:1313/series/rivergraph/</loc>
     <lastmod>2026-02-03T16:07:23-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2026-02-03T16:07:23-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-02-03T16:07:23-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/rivergraph/</loc>
     <lastmod>2026-02-03T16:06:59-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/adventure/</loc>
-    <lastmod>2026-02-03T15:22:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/apocalyptic/</loc>
-    <lastmod>2026-02-03T15:22:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/meat-hacker/</loc>
-    <lastmod>2026-02-03T15:22:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/psychedelic/</loc>
-    <lastmod>2026-02-03T15:22:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/scifi/</loc>
-    <lastmod>2026-02-03T15:22:43-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/meathacker/</loc>
     <lastmod>2026-02-03T15:22:13-08:00</lastmod>
