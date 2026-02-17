@@ -19,7 +19,7 @@ weight = 3
 # Display
 dropcap = true
 featured = false
-recommended = false
+recommended = true
 thumbnail = true
 
 # Publication Control
