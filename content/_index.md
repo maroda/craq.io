@@ -29,12 +29,21 @@ They are called:<br>
 
 {{< about AUTHOR="Matt Davis" AVATAR="oxy.png" >}}
 
-[Craq.io](https://www.craq.io/) is where I publish compositions and works of fiction.
+Matt Davis is Craque, a life-long project of art and music.
+Improvisation is the mainstay of his live performances which include diverse techniques for creating and layering sound,
+from sampling found objects to prepared guitar loops and experimental vocalizations.
+Other sources for expression come from building electronics and DIY synthesizers, giving his music an organic feel that sits uniquely between electronic dance music and free jazz.
+His musical styles can shift depending on the context, involving ambient and drone elements alongside rhythmic explorations.
+Matt's fixation with improvisation has extended into his professional work in IT, where he is an expert in Resilience Engineering and trains software engineers on how to respond to incidents and navigate complexity.
 
-[Sounding](https://www.sounding.com/) is where I write blog articles and sometimes poetry.
+[Mastodon](https://c.im/@dtauvdiodr) is where I social.
 
 [Craque](https://www.craque.net/) is where I publish music on Bandcamp.
 
-[dtuavdiodr](https://www.youtube.com/dtauvdiodr) is where I publish videos of me playing music.
+[dtauvdiodr](https://www.youtube.com/dtauvdiodr) is where I publish videos of me playing music on YouTube.
+
+[Sounding](https://www.sounding.com/) is where I occasionally write blog articles and sometimes poetry.
+
+[Craq.io](https://www.craq.io/) where I publish compositions and works of fiction.
 
 {{< /about >}}
